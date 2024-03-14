@@ -1,0 +1,36 @@
+.addTask{
+    color: white;
+    background-color:#6470f0 ;
+    /* width: 6.5rem;
+    height: 2.8rem; */
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 450;
+    border: 0;
+    padding: 0.6rem 1rem;
+}
+
+
+.filterButton{
+    color: #585858;
+    background-color: rgb(221, 221, 221);
+    font-size: 1.1rem;
+    font-weight: 450;
+    border: none;
+    border-radius: 6px;
+    padding: 0.6rem;
+    width: 8rem;
+    height: 3rem;
+}
+
+.cancelButton{
+    background-color: #cccdde;
+    color: #646681;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 450;
+    border: 0;
+    padding: 0.6rem 1rem;
+    position: fixed;
+    right: 1rem;
+}

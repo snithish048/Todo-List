@@ -1,0 +1,7 @@
+.topFlex{
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+    border-radius: 1rem;
+    padding: 2rem; 
+}
